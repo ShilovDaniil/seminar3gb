@@ -1,8 +1,13 @@
+# Control version first file
 This is text for testing Visual Studio Code!
+
+## TEXT
 
 *word.*
 
 **fat text**
+
+## SPISKI
 
 * element 1 
 * element 2
